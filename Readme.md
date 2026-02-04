@@ -45,4 +45,3 @@ var lang = isCode('path/to/Makefile');
 
 
 
-
