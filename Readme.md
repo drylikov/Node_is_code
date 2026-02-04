@@ -1,4 +1,3 @@
-
 # is-code
 
   Check if a given path looks like code (that can be parsed by pygments).
@@ -20,7 +19,6 @@ var lang = isCode('path/to/Makefile');
      /^Makefile\..+$/,
      /^GNUmakefile$/ ] }
 ```
-
 
 
 
