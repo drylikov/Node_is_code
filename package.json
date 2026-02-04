@@ -1,0 +1,22 @@
+
+{
+  "name": "is-code",
+  "version": "1.1.0",
+  "description": "Check if a filename looks like something pygments can parse",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "gitHead": "440e2e7ef2cb930f17c4d40a505b91c009a56f70",
+  "devDependencies": {
+    "should": "~1.2.2",
+    "mocha": "~1.9.0",
+    "better-assert": "~1.0.0"
+  }
+}
