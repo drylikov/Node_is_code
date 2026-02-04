@@ -19,4 +19,3 @@ var lang = isCode('path/to/Makefile');
      /^Makefile\..+$/,
      /^GNUmakefile$/ ] }
 ```
-
