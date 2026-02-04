@@ -1,4 +1,4 @@
-# is-code
+# Is code .
 
   Check if a given path looks like code (that can be parsed by pygments).
 
